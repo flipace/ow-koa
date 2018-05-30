@@ -1,4 +1,4 @@
-<img src="docs/_media/ow-logo.png" width="100" />
+<img src="ow-logo.png" width="100" />
 
 # ow-koa
 
